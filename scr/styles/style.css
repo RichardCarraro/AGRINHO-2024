@@ -3,6 +3,7 @@
 @import url(projeto.css);
 @import url(sobre.css);
 @import url(footer.css);
+@import url(page1.css);
 
 :root {
     --color-primary-0: #235cfa;
