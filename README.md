@@ -1,6 +1,6 @@
 # AGRINHO 2024
 
-<img src="/scr/imagens/Banner filtro.jpg" alt="agrinho_img">
+<img src="/scr/imagens/AGRINHO.png" alt="agrinho_img">
 
 > Visão Geral
 O projeto visa promover e explorar as oportunidades que surgem quando a agricultura e a vida urbana se encontram. Oportunidades de negócios rurais, e iniciativas para conectar agricultores e empreendedores urbanos. O design do site é intuitivo e visa criar uma experiência envolvente para os visitantes.
