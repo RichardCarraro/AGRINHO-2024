@@ -1,0 +1,27 @@
+:root {
+    --color-primary-0: #235cfa;
+    --color-primary-1: #49a7ff;
+    --color-primary-2: #b4fff3;
+    --color-primary-3: #77c9f8;
+    --color-primary-4: #00ff00;
+    --color-primary-5: #7aff45;
+    --color-primary-6: #49e909;
+
+    --color-neutral-0: #ffffff;
+    --color-neutral-1: #1d1d1d;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--color-primary-1);
+}
