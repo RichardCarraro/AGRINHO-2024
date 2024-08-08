@@ -5,6 +5,13 @@
 > Visão Geral
 O projeto visa promover e explorar as oportunidades que surgem quando a agricultura e a vida urbana se encontram. Oportunidades de negócios rurais, e iniciativas para conectar agricultores e empreendedores urbanos. O design do site é intuitivo e visa criar uma experiência envolvente para os visitantes.
 
+## 👀 Acesse o Site
+
+- GitHub Pages: https://richardcarraro.github.io/AGRINHO-2024/
+
+- Vercel: https://agrinho-2024-rdetmly2y-richardcarraros-projects.vercel.app/
+
+
 
 ## 💻 Tecnologias Utilizadas
 
