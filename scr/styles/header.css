@@ -1,0 +1,100 @@
+header {
+    width: 100%;
+    padding: 28px 8%;
+    position: sticky;
+    top: 0;
+    background-color: var(--color-primary-1);
+    z-index: 3;
+    background: var(--color-primary-0);
+}
+
+#navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav_logo {
+    font-size: 24px;
+    color: var(--color-primary-6);
+}
+
+#nav_list {
+    display: flex;
+    list-style: none;
+    gap: 48px;
+}
+
+.nav-item a {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--color-neutral-1);
+    border-bottom: 3px solid var(--color-primary-4);  
+}
+
+button a {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--color-neutral-1); 
+}
+
+#menu_toggle {
+    display: none;
+}
+
+.menu-icon {
+    display: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.btn-default a {
+    font-size: 13px;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 700px) {
+    #nav_list {
+        display: none;
+    }
+
+    #menu_toggle:checked + .menu-icon + #nav_list {
+        display: block;
+        position: absolute;
+        background: var(--color-primary-0);
+        width: 100%;
+        left: 0;
+        top: 60px; 
+        text-align: center; 
+        padding: 10px 0;
+    }
+
+    #nav_list {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .menu-icon {
+        display: block;
+        color: var(--color-primary-6);
+    }
+
+    #menu_toggle:checked + .menu-icon + #nav_list .btn-default {
+        display: block;
+        margin-top: 10px;
+        max-width: 50%;
+        margin: 0 auto; 
+    }
+
+   
+    .btn-default  {
+        display: none; 
+        padding: 10px 20px;
+        background: var(--color-primary-1);
+        color: var(--color-neutral-1);
+        border-radius: 4px;
+        font-size: 14px;
+        text-align: center;
+    }
+}
