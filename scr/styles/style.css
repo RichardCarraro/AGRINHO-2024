@@ -1,4 +1,5 @@
 @import url(header.css);
+@import url(home.css);
 
 :root {
     --color-primary-0: #235cfa;
