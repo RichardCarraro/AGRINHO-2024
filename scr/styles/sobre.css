@@ -1,6 +1,7 @@
 #sobre {
     width: 100%;
     margin-top: 32px;
+    scroll-margin-top: 80px;
 }
 
 #sobre_wrapper {
