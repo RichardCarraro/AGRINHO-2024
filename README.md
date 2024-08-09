@@ -8,8 +8,10 @@ O projeto visa promover e explorar as oportunidades que surgem quando a agricult
 ## 👀 Acesse o Site
 
 - GitHub Pages: https://richardcarraro.github.io/AGRINHO-2024/
+    Videos OFF
 
 - Vercel: https://agrinho-2024-a740hh4uq-richardcarraros-projects.vercel.app
+    Videos ON
 
 
 
